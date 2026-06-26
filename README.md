@@ -187,7 +187,7 @@ Code: https://github.com/RohithkumarReddipogula/llm-finetune-project
 
 LLM Evaluation (this project)
 RAGAS evaluation framework, 5 metrics, live Streamlit dashboard
-Dashboard: https://rohith2026-llm-evaluation-dashboard.hf.space
+Dashboard: https://huggingface.co/spaces/ROHITHKUMARREDDIOGULa/llm-evaluation-dashboard
 
 ---
 
