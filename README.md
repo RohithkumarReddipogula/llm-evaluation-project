@@ -4,8 +4,7 @@ Automated quality scoring for RAG system outputs using RAGAS and Google Gemini
 as the judge LLM. Evaluates answers across 5 industry-standard metrics and
 visualises results in a live Streamlit dashboard.
 
-Live Dashboard: https://rohith2026-llm-evaluation-dashboard.hf.space
-
+Live Dashboard: https://huggingface.co/spaces/ROHITHKUMARREDDIOGULa/llm-evaluation-dashboard
 ---
 
 ## Overview
